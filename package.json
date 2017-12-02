@@ -1,0 +1,27 @@
+{
+  "name": "hello-test",
+  "version": "0.0.1",
+  "description": "testing unit, func e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafidziapermana/hello-test.git"
+  },
+  "keywords": [
+    "tester"
+  ],
+  "author": "Hafidz Permana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hafidziapermana/hello-test/issues"
+  },
+  "homepage": "https://github.com/hafidziapermana/hello-test#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
